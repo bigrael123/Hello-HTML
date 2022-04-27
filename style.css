@@ -1,0 +1,9 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: brown;
+    text-align: center;
+}
+h3{color: rgb(0, 116, 52);}
+p{text-decoration: underline;}
+h2{ border: 1px solid; }
