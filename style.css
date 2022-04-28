@@ -17,10 +17,19 @@ h2{ border: 1px solid; }
 /* ids*/
 #Produtos{
     border: 1px red solid;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
 }
 /* CLasses*/
 .produtoDestaque{
+    
     border: 1px red solid;
+    
+}
+.produtoDestaque img{
+   max-width: 650;
+   max-height: 300px;
 }
 .Header{
     list-style: none;
