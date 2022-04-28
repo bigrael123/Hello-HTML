@@ -16,16 +16,16 @@ p{text-decoration: underline;}
 h2{ border: 1px solid; }
 /* ids*/
 #Produtos{
-    border: 1px red solid;
     display: flex;
     justify-content: center;
     align-items: flex-end;
+    
 }
 /* CLasses*/
 .produtoDestaque{
-    
+    background-color: tomato;
     border: 1px red solid;
-    
+  
 }
 .produtoDestaque img{
    max-width: 650;
